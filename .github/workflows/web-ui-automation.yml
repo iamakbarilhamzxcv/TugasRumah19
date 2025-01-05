@@ -34,7 +34,7 @@ jobs:
 
     # Execution gradlew command for runing cumcumber
     - name: Execute test
-      run: ./gradle cucumber
+      run: ./gradlew cucumber
 
     # Archive test result
     - name: Archive test result
