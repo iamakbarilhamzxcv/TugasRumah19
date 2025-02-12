@@ -1,6 +1,6 @@
 name: Web Automation Workflow
 
-# Events
+#Events
 on:
   push:
     branches: [ "master" ]
